@@ -15,7 +15,8 @@ class ShopApp extends StatelessWidget {
     designSize: const Size(430, 932),
     builder: (context,child)=>MaterialApp(
       theme: ThemeData(
-
+      scaffoldBackgroundColor: Color(0xffFDFDFD),
+        fontFamily: "Montserrat",
       ),
       debugShowCheckedModeBanner: false,
      // home: ,

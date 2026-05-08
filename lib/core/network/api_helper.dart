@@ -13,7 +13,7 @@ APIHelper._internal();
 //Declaring Dio
 Dio dio = Dio(
   BaseOptions(
-    baseUrl: EndPoints.
+    // baseUrl: EndPoints.
   )
 );
 }
